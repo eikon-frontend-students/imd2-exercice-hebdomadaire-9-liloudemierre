@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+}
+
+img,
+video {
+  display: block;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.1);
+  font-family: "Roboto";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: 500;
+}
